@@ -24,7 +24,7 @@ python -m venv env
 ```
 
 ```
-source venv/script/activate
+source venv/Scripts/activate
 ```
 
 ```
